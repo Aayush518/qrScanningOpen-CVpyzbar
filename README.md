@@ -40,4 +40,8 @@ This is a simple QR Code Scanner using OpenCV and PyZbar.
 ## Screenshots
 
 
+![1](https://github.com/Aayush518/qrScanningOpen-CVpyzbar/assets/77236863/7d5645f1-5d88-49b6-b2f5-6a35618be5e0)
+
+![1](https://github.com/Aayush518/qrScanningOpen-CVpyzbar/assets/77236863/bbd5b4e0-5b15-4939-8e47-8e84478067ad)
+
 
